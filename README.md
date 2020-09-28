@@ -23,6 +23,6 @@ Basicamente amarre el clip a el laser y puse con sintas negras que tapaban la pu
  # Expliación 
  Este fenomeno se explica de la siguiente manera, el haz de luz, al recibir la interferencia, puede ir en infinitas direcciones, en nuestro entendimiento solo deberia tomar una de estas posibles posibles direcciones. Ahora teniendo en cuenta esto, imaginemos que hay multiples universos por cada posible direccion que toma el haz de luz. una vez puesta la cinta negra(las rendijas) los otros universos empiezan a interferir entre si, esto genera que el haz de luz al pasar por la rendija se generan varios lugares en los que es probable que golpee el haz de luz. Estas probabilidades de los diferentes universos se pueden conocer como historias del haz, y con el experimento de la doble rendija se capturan algunas de las historias posibles al generar el choque entre estas.
  
-#Autor
+# Autor
 
 Andrés Rodríguez del toro
