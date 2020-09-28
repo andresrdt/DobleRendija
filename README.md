@@ -1,1 +1,1 @@
-# DobleRendija
+# Experimento de la Doble Rendija
