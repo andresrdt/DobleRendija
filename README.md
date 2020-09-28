@@ -1,6 +1,6 @@
 # Experimento de la Doble Rendija
 
-# introduccion:
+# Introduccion:
 
 El experimento de la doble rendija es un experimento bastante conplejo de entender que consiste en demostrar el extraño comportamiento de las particulas en ciertas circustancias. 
 Al crear interferencia para un cuerpo de estos,este tiende a tomar un camino aleatorio de desviación. En un haz de luz que se genere la correcta interferencia se generaran varios haces de luces como si se estuvieran usando varias fuentes de luz, mas sin embargo solo hay un origen.Este experimento se realizo por primera vez en 1801 por Thomas Young para ver el comportamiento de la luz. Esto llevo a los cientificos a tomar como verdad el que la luz funciona de forma dual, es decir como onda y particula. Pero nunca se explico el por que de este fenomeno. En este repositorio se dara a entender el por que de este fenomeno de acuerdo con la fisica moderna o el concepto de la fisica cuantica. 
