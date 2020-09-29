@@ -8,7 +8,7 @@ Al crear interferencia para un cuerpo de estos,este tiende a tomar un camino ale
 # Experimento 
 Primero con ayuda de cinta negra, un laser y un clip, realice el siguiente montaje.
 
-foto
+![](fotos/laser.jpg)
 
 Basicamente amarre el clip a el laser y puse con sintas negras que tapaban la punta del laser pero dejaban un pequeño espacio entre los dos. en este pequeño espacio se puso una punta del clip, cabe aclarar que el clip no puede tocar las dos cintas negras, es decir se deja un pequeño espacio milimetrico entre estos. una vez hecho esto al momento de apuntar se debe generar una linea de puntos de luces mas o menos como se muestra en als siguientes fotos.
  
