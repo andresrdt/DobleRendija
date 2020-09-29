@@ -16,6 +16,9 @@ Basicamente amarre el clip a el laser y puse con sintas negras que tapaban la pu
  
  ![](fotos/laser2.jpg)
  
+ Link con un video del resultado
+ https://www.youtube.com/watch?v=wKEudADBeyY&feature=youtu.be&ab_channel=Andres
+ 
  El efecto si bien es notable,no me salio tan notorio como en algunos videos del experimento por lo que aqui dejo una foto de un video de youtube que se ve claramente este fenomeno.
  
 ![](fotos/laserGod.jpg)
